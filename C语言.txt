@@ -1,0 +1,8 @@
+C:\Users\amecha\Desktop
+C:\\Users\\amecha\\Desktop
+"C:\Users\amecha\Desktop"
+C:/Users/amecha/Desktop
+
+
+"C:\Program Files\Sublime Text 3\sublime_text.exe"
+
